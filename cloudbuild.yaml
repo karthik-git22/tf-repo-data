@@ -4,6 +4,6 @@ steps:
   - 'bash'
   - '-c'
   - |
-    echo "Hello from Cloud Build"
+    echo "Hello from Cloud Build Data"
     date
     uname -a
