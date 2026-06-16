@@ -1,0 +1,9 @@
+steps:
+- name: 'ubuntu'
+  args:
+  - 'bash'
+  - '-c'
+  - |
+    echo "Hello from Cloud Build"
+    date
+    uname -a
